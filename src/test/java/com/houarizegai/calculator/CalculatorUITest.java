@@ -11,7 +11,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class CalculatorUITest {
 
-    private CalculatorUI calculatorUI;
+//    private CalculatorUI calculatorUI;
 
     @BeforeEach
     void setUp() {
